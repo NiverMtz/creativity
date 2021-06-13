@@ -24,4 +24,4 @@ I create this repository to store projects that in the only sean of development,
 
     ¿Regular expressions? The automatas are a hypothetical machine to process text strings, surely they have been used, without giving...
     
-    [Get the pdf article](https://nivermtz.github.io/creativity/infographics/finite-automaton/index.html)
+    [Get the pdf article](articles/automatas-finitos.pdf)
